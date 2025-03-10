@@ -40,13 +40,13 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Home"
-      url = "#"
+      url = "#"″
 
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "The DevOps Toolkit Series"
+    title = "test"
     subtitle = "Where DevOps becomes practice"
     buttonText = "Get Started"
 
